@@ -1,0 +1,5 @@
+[0125/211807.325:ERROR:settings.cc(325)] Settings version is not 1
+[0126/115230.054:ERROR:settings.cc(325)] Settings version is not 1
+[0126/131227.975:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[0126/174756.184:ERROR:settings.cc(325)] Settings version is not 1
+[0127/131017.707:ERROR:settings.cc(325)] Settings version is not 1
