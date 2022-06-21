@@ -191,13 +191,13 @@ ul.nav.navbar-nav li a:hover {
     text-align: center;
 }
 .w3ls_banner_section.second {
-    background: url(../images/inner_bg.jpg) no-repeat 0px 0px;
+    background: url(../images/inner_bg_viedai.jpg) no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     -ms-background-size: cover;
-    min-height: 260px;
+    min-height: 450px;
     position: relative;
     text-align: center;
 }
