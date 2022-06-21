@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos-vinicius-lima/)](https://www.linkedin.com/in/marcos-vinicius-lima/)
 
 <h1 align="center">
-    <img alt="Meu Casamento" title="Projeto" src="https://github.com/ViniciusLima7/Site-Casamentof/blob/master/images/capagithub.png" />
+    <img alt="Meu Casamento" title="Projeto" src="https://github.com/ViniciusLima7/Site-Casamento/blob/master/images/capagithub.png" />
 </h1>
 
 # 💻 Projeto
