@@ -20,11 +20,6 @@ Link da Aplicação : https://daianievinicius.com.br/
 - JavaScript
 - Bootstrap
 
-
-
-
-# A aplicação será aberta na porta:3000 - acesse http://localhost:3000
-
 # 📝 Licença
 
 Esse projeto foi desenvolvido por [Vinicius Lima](https://www.linkedin.com/in/marcos-vinicius-lima/)
