@@ -127,10 +127,10 @@
           minutes: 0,
           seconds: 0,
           words: {
-            days: "day",
-            hours: "hour",
-            minutes: "minute",
-            seconds: "second",
+            days: "Dia",
+            hours: "Hora",
+            minutes: "Minuto",
+            seconds: "Segundo",
             pluralLetter: "s",
           },
           plural: true,
@@ -216,13 +216,6 @@
 
           minutes = parseInt(secondsLeft / 60, 10);
           seconds = parseInt(secondsLeft % 60, 10);
-
-          //   days = 0;
-          //   hours = 0;
-          //   minutes = 0;
-          //   seconds = 0;
-          //   window.clearInterval(interval);
-          //   parameters.onEnd();
         }
 
         if (parameters.plural) {
